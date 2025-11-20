@@ -1,0 +1,156 @@
+Hair/Hat
+00: Boba Fett helmet
+01: Pink short
+02: Storm Trooper helmet
+03: Darth Vader helmet
+04: Princess Leia (Slave)
+05: Black hood
+06: Rebel Trooper helmet
+07: Rebel Pilot
+08: Death Star Trooper helmet
+09: Princess Leia
+0A: Safari
+0B: Imperial Officer
+0C: Silver hat
+0D: Blue hat
+0E: Brown hat
+10: None
+Head
+00: Ben Kenobi
+01: Luke
+02: Tusken Raider
+04: Princess Leia
+05: Dave
+06: Han
+07: Bob
+08: C-3PO
+09: Greedo
+0A: Yoda
+0B: Grand Moff Tarkin
+0C: Imperial Spy
+0D: Bith
+0E: Emperor Palpatine
+0F: Jawa
+10: Ponda Baba
+11: Chewbacca
+12: 2-1B
+13: Wicket
+14: Ewok
+15: Admiral Ackbar
+16: Gamorrean Guard
+17: Ugnaught
+18: IG-88
+19: Ithorian
+1A: Duro
+1B: 4-LOM
+1C: Bossk
+1D: Snivvian
+Cape
+00: None
+01: Black
+02: White
+03: Brown
+04: Grey
+05: Pink
+Torso
+00: White
+01: Grey
+02: Dark Grey
+03: Black
+04: Brown
+05: Sand Green
+06: Green
+07: Dark Blue
+08: Orange
+09: Olive
+0A: Light Blue
+0B: Light skin colour
+0C: Red
+0D: Beige
+0E: Dark Blue
+0F: Princess Leia (Slave)
+10: Han Solo
+11: Luke Skywalker (Tatooine)
+12: Rebel Pilot
+13: Luke Skywalker (Jedi)
+14: Boba Fett
+15: Ben Kenobi
+16: Tusken raider
+17: Luke Skywalker/Princess Leia (Endor)
+18: Pink
+19: Greedo
+1A: C-3PO
+1B: Grand Moff Tarkin
+1C: Princess Leia
+1D: Bossk
+1E: Bib Fortuna
+1F: Dengar
+20: Snowtrooper
+21: Scout Trooper
+Arms
+00: White
+01: Grey
+02: Dark Grey
+03: Black
+04: Brown
+05: Sand Green
+06: Greedo
+07: Light Skin colour
+08: Pink
+09: Beige
+Hands/Gloves
+00: Light Skin colour
+01: Dark grey
+02: Black
+03: Sand green
+04: Luke Skywalker (Jedi)
+05: C-3PO
+06: Greedo
+Weapon
+00: Blue Lightsaber
+01: Green Lightsaber
+02: Red Lightsaber
+03: Purple Lightsaber
+04: Blaster
+05: Tazzer
+06: Gun
+07: Silver gun
+08: Crossbow
+Hips
+00: White
+01: Grey 
+02: Dark grey
+03: Black
+04: Brown 
+05: Sand green
+06: Green
+07: Dark blue
+08: Orange
+09: Olive
+0A: Light blue
+0B: Light Skin colour
+0C: Red
+0D: Beige
+0E: Han Solo
+0F: Princess Leia (Slave)
+10: Pink
+11: C-3PO
+Legs
+00: White 
+01: Grey
+02: Dark grey
+03: Black
+04: Brown 
+05: Sand green
+06: Green
+07: Dark blue
+08: Orange
+09: Olive
+0A: Light blue
+0B: Light Skin colour
+0C: Red
+0D: Beige
+0E: Han Solo
+0F: Princess Leia (Slave)
+10: Pink
+11: C-3PO

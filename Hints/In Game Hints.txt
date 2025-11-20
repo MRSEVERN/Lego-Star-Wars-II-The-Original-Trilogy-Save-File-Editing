@@ -1,0 +1,30 @@
+"Approach piles of LEGO and hold [SPECIAL] to build. Only droids cannot build." Address 0x37C Value 10
+"Press [SPECIAL] to pull levers, if you're not controlling a droid." Address 0x382 Value 80
+"Blaster characters can grapple to other areas. Stand on the red circles and press [SPECIAL]." Address 0x37D Value 04
+"Only Bounty Hunters can access these areas." 
+"Only Stormtroopers can access these areas." 
+"You can push objects that have black and yellow stripes." Address 0x37D Value 80
+"Walk up to friendly characters and press [TAG] to take control of them." Address 0x37C Value 04
+"Droids can operate LEGO panels. Press [SPECIAL] to activate them." Address 0x37C Value 80
+"All characters except droids can operate cranes. Press [TAG] when close to get in." Address 0x382 Value 02
+"You can jump out of a vehicle by pressing [JUMP] or [TAG]." Address 0x37C Value 40
+"While operating a crane, press [ACTION] or [SPECIAL] to pick things up or drop them." Address 0x382 Value 04
+"Regain control of your other characters by moving up to them and pressing [TAG]." Address 0x37C Value 08
+"You can now play Episode V or Episode VI..."
+"Gold bricks are used to build useful objects inside or outside the cantina."
+"In Free Play, press [TOGGLELEFT] or [TOGGLERIGHT] to choose a different character." Address 0x37C Value 01
+"All characters except droids can ride creatures. Press [TAG] when close." Address 0x37D Value 08
+"Hold [SPECIAL] to use the Force on glowing LEGO objects." Address 0x37C Value 02
+"All characters except droids can get into vehicles. Press [TAG] when close." Address 0x37C Value 20
+"Stormtroopers and their superiors can use some control panels. Press [SPECIAL] to activate them." Address 0x37D Value 01
+"Press [ACTION] to dodge or deflect blaster bolts." Address 0x37D Value 20
+"Press [SPECIAL] to fire torpedos at targeted objects." Address 0x382 Value 01
+"Press [SPECIAL] to use the Snowspeeder's tow cable on targeted objects." Address 0x382 Value 20
+"Press [TAG] when Yoda is nearby to learn the ways of the Force." Address 0x382 Value 08
+"Press [SPECIAL] to throw thermal detonators if you're a Bounty Hunter."
+"Shiny metallic objects can only be destroyed with Bounty Hunter Thermal Detonators." Address 0x383 Value 08
+"Press [JUMP] to perform a loop and get behind enemy speeders." Address 0x381 Value 40
+"Small characters can crawl through access hatches. Press [SPECIAL] to do this." Address 0x37E Value 01
+"Bounty hunters can use some control panels. Press [SPECIAL] to activate them." Address 0x37D Value 02
+"This is a Power Brick! Collect one in each level to unlock cheats." Address 0x37E Value 04
+"Some Bounty Hunters can use droid access panels." Address 0x383 Value 10
